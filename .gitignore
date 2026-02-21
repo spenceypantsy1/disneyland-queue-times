@@ -1,7 +1,2 @@
 *.venv
-.venv/
 *.env
-
-# Large data files - use parquet instead
-*.csv
-data/raw_data/*.csv
